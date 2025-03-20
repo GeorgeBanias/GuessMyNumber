@@ -2,26 +2,26 @@
 
 Guess Number is a minimalist web-based game created to practice HTML, CSS, and JavaScript skills. It challenges users to guess a randomly selected number, providing instant feedback for each attempt.
 
-## 🚀 Live Demo
+##  Live Demo
 
 You can experience the live version of this project here:
 
 [🔗 guess-number-georgeb.netlify.app](https://guess-number-georgeb.netlify.app/)
 
-## 📌 Technologies Used
+##  Technologies Used
 
 - **HTML5** – Semantic and structured markup
 - **CSS3** – Clean styling and responsive layout
 - **JavaScript** – Interactive gameplay and dynamic user feedback
 
-## 🎯 Project Features
+##  Project Features
 
 - Simple and intuitive gameplay
 - Instant feedback on user guesses
 - Responsive design compatible with all devices
 - Clean, minimalist user interface
 
-## 💻 Learning Objectives
+##  Learning Objectives
 
 This project was built primarily to:
 
@@ -31,7 +31,7 @@ This project was built primarily to:
 - Enhance interactive user interface design
 
 
-## 🛠️ Setup & Installation
+##  Setup & Installation
 
 To view or edit this project locally:
 
@@ -47,7 +47,7 @@ To view or edit this project locally:
 
 3. Open the `index.html` file in your browser to start guessing!
 
-## 📄 License
+##  License
 
 This project is open source and available for educational purposes.
 
